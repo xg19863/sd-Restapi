@@ -1,0 +1,41 @@
+{
+    "message_not_found": "Message does not exists",
+    "failed_saving_msg": "Message failed to be saved",
+    "message_sent": "Message has been successfully saved",
+    "message_deleted": "Message has been deleted",
+
+    "user_exists": "This user was already taken",
+    "failed_creating_user": "User failed to be created",
+    "user_created": "User has been successfully created, please check your email to finish registeration",
+    "user_not_found": "User does not exists",
+    "user_no_password": "Please provide a password to continue",
+    "failed_updating_user": "User failed to be updated",
+    "user_updated": "User account has been updated",
+    "user_deleted": "User has been deleted",
+    "invalid_credentials": "Username or password wrong",
+    "user_logout": "User logged out",
+    "user_not_confirmed": "You have not confirmed your email. Please confirm your email",
+    "user_already_confirmed": "You have already confirmed your email",
+    "email_used": "This email address has already been used, please try another one",
+
+    "mailgun_api_key_missing": "Failed to load Mailgun API key",
+    "mailgun_api_url_missing": "Failed to load Mailgun Url",
+    "from_email_missing": "Failed to load from email address",
+    "confirm_email_not_sent": "Failed to send confirmation email",
+
+    "confirmation_not_found": "Confirmation does not exists",
+    "confirmation_expired": "Confirmation link has already expired",
+    "confirmation_already_used": "Email has already been confirmed",
+    "resend_success": "Resent confirmation email successfully",
+    "resend_failed": "Resent confirmation email failed",
+
+    "image_uploaded": "Image '{}' uploaded",
+    "image_format_not_allowed": "'{}' type is not allowed",
+    "image_name_not_allowed": "'{}' is not allowed because its file extension is not supported",
+    "image_not_found": "Image does not exists",
+    "image_deleted": "'{}' has been deleted",
+    "image_deletion_failed": "Failed to delete image",
+    "avatar_deletion_failed": "Failed to delete avatar",
+    "avatar_uploaded": "Avatar uploaded successfully",
+    "avatar_not_found": "Avatar does not exists"
+}
